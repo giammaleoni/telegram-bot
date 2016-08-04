@@ -3,6 +3,10 @@
 
 Starting project: [telegram-bot-bootstrap](http://kengz.me/telegram-bot-bootstrap/) by [Wah Loon Keng](https://github.com/kengz)
 
+## Prerequisites
+- Node
+- Create Telegram Bot with Botfather. Details at [Bots: An introduction for developers](https://core.telegram.org/bots)
+
 ## Installation
 - new project folder
 - `cd` into it
